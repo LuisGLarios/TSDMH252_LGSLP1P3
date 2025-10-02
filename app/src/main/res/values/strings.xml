@@ -1,0 +1,52 @@
+<resources>
+
+    //Botones de la pantalla principal
+    <string name="app_name">TSDMH252_LGSLP1P2</string>
+    <string name="txt1">Calculadora Practica</string>
+    <string name="txtsuma">Sumar</string>
+    <string name="txtresta">Restar</string>
+    <string name="txtmulti">Multiplicar</string>
+    <string name="txtdivi">Dividir</string>
+    <string name="txtN2">Al cuadrado</string>
+    <string name="txtN">Potencia a la N </string>
+    <string name="txtraiz">Raiz Cuadrada</string>
+    <string name="btnsu">Suma</string>
+    <string name="btnre">Restar</string>
+    <string name="btnmul">Multiplicar</string>
+    <string name="btndi">Dividir</string>
+    <string name="btnN2">Potencia al Cuadrado</string>
+    <string name="btnN">Potencia a la N </string>
+    <string name="btnra">Raiz Cuadrada </string>
+
+    // Botones de la pantalla 2
+    <string name="txtp2">Ingresa el primer numero </string>
+    <string name="txt2p2">Ingresa el segudno numero</string>
+    <string name="lbn1">Aqui el primer Numero</string>
+    <string name="lbn2">Aqui el Segundo Numero</string>
+    <string name="btnp2">Realizar Operacion </string>
+
+    //pantalla resta
+    <string name="lbr1">Aqui el primer numero </string>
+    <string name="lbr2">Aqui el segundo numero </string>
+
+    //pantalla multiplicacion
+    <string name="lbm1">Aqui el primer numero</string>
+    <string name="lbm2">Aqui el segundo numero </string>
+
+    //pantalla divicion
+    <string name="lbd1">Aqui el primer numero</string>
+    <string name="lbd2">Aqui el segundo numero </string>
+
+    //PANTALLA N2
+    <string name="lbp2">Aqui el inserta el numero</string>
+
+    // Pantalla N
+    <string name="lbN"> Aqui el primer numero </string>
+    <string name="lbNN">Aqui el segundo numero </string>
+
+    //pantalla Raiz
+    <string name="lbrRC">Aqui el Primer Numero</string>
+    <string name="lbRC2">Aqui el segundo numero</string>
+
+
+</resources>
